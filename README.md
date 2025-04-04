@@ -46,7 +46,7 @@
 
 ### **2. Access the Web Interface**  
 1. Open **Serial Monitor** (`Ctrl+Shift+M`, set baud rate to `115200`).  
-2. Note the **IP address** (e.g., `192.168.1.100`).  
+2. Note the **IP address** (e.g., `192.168.*.*`).  
 3. Enter this IP in any web browser (phone/PC).  
 
 ### **3. Control the LED**  
